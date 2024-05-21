@@ -6,3 +6,5 @@ author: 'PuddingKC'
 permissions:
   anvilcolorizer.use:
     default: op
+  anvilcolorizer.use.hex:
+    default: op
